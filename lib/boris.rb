@@ -6,6 +6,6 @@ end
 
 class Bike
   def working?
-    puts "working!"
+    return true
   end
 end
